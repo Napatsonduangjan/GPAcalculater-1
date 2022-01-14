@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: GPA.TT, Configuration: Debug Any CPU ------
+1>C:\Users\TeammyNo1\Desktop\github\GPAcalculater\GPA.TT\GPA.TT\Form1.Designer.cs(79,63,79,75): error CS1061: 'Form1' does not contain a definition for 'label2_Click' and no accessible extension method 'label2_Click' accepting a first argument of type 'Form1' could be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\TeammyNo1\Desktop\github\GPAcalculater\GPA.TT\GPA.TT\Form1.Designer.cs(87,74,87,94): error CS1061: 'Form1' does not contain a definition for 'textBox2_TextChanged' and no accessible extension method 'textBox2_TextChanged' accepting a first argument of type 'Form1' could be found (are you missing a using directive or an assembly reference?)
+1>Done building project "GPA.TT.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
