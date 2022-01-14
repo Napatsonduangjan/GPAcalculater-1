@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("GPA.TT")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("GPACalculater")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("GPA.TT")]
-[assembly: System.Reflection.AssemblyTitleAttribute("GPA.TT")]
+[assembly: System.Reflection.AssemblyProductAttribute("GPACalculater")]
+[assembly: System.Reflection.AssemblyTitleAttribute("GPACalculater")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

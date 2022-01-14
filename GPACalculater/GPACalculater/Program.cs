@@ -1,4 +1,4 @@
-namespace GPA.TT
+namespace GPACalculater
 {
     internal static class Program
     {

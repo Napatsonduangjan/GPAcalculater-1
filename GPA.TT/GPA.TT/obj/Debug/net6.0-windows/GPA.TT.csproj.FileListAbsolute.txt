@@ -1,7 +1,0 @@
-C:\Users\TeammyNo1\Desktop\github\GPAcalculater\GPA.TT\GPA.TT\obj\Debug\net6.0-windows\GPA.TT.csproj.AssemblyReference.cache
-C:\Users\TeammyNo1\Desktop\github\GPAcalculater\GPA.TT\GPA.TT\obj\Debug\net6.0-windows\GPA.TT.Form1.resources
-C:\Users\TeammyNo1\Desktop\github\GPAcalculater\GPA.TT\GPA.TT\obj\Debug\net6.0-windows\GPA.TT.csproj.GenerateResource.cache
-C:\Users\TeammyNo1\Desktop\github\GPAcalculater\GPA.TT\GPA.TT\obj\Debug\net6.0-windows\GPA.TT.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\TeammyNo1\Desktop\github\GPAcalculater\GPA.TT\GPA.TT\obj\Debug\net6.0-windows\GPA.TT.AssemblyInfoInputs.cache
-C:\Users\TeammyNo1\Desktop\github\GPAcalculater\GPA.TT\GPA.TT\obj\Debug\net6.0-windows\GPA.TT.AssemblyInfo.cs
-C:\Users\TeammyNo1\Desktop\github\GPAcalculater\GPA.TT\GPA.TT\obj\Debug\net6.0-windows\GPA.TT.csproj.CoreCompileInputs.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TeammyNo1\\Desktop\\github\\GPAcalculater\\GPA.TT\\GPA.TT\\GPA.TT.csproj",
-      "projectName": "GPA.TT",
-      "projectPath": "C:\\Users\\TeammyNo1\\Desktop\\github\\GPAcalculater\\GPA.TT\\GPA.TT\\GPA.TT.csproj",
+      "projectUniqueName": "C:\\Users\\TeammyNo1\\Desktop\\github\\GPAcalculater\\GPACalculater\\GPACalculater\\GPACalculater.csproj",
+      "projectName": "GPACalculater",
+      "projectPath": "C:\\Users\\TeammyNo1\\Desktop\\github\\GPAcalculater\\GPACalculater\\GPACalculater\\GPACalculater.csproj",
       "packagesPath": "C:\\Users\\TeammyNo1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TeammyNo1\\Desktop\\github\\GPAcalculater\\GPA.TT\\GPA.TT\\obj\\",
+      "outputPath": "C:\\Users\\TeammyNo1\\Desktop\\github\\GPAcalculater\\GPACalculater\\GPACalculater\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TeammyNo1\\AppData\\Roaming\\NuGet\\NuGet.Config",
