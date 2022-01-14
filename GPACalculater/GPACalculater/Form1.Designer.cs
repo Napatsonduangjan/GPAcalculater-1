@@ -35,10 +35,14 @@
             this.button2 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.textBoxMinName = new System.Windows.Forms.TextBox();
+            this.textBoxMaxName = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.textBoxMinGPA = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.textBoxMaxGPA = new System.Windows.Forms.TextBox();
+            this.textBoxName_input = new System.Windows.Forms.TextBox();
+            this.textBoxAllData = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -63,14 +67,14 @@
             // 
             // textBoxGPA_input
             // 
-            this.textBoxGPA_input.Location = new System.Drawing.Point(211, 50);
+            this.textBoxGPA_input.Location = new System.Drawing.Point(400, 44);
             this.textBoxGPA_input.Name = "textBoxGPA_input";
             this.textBoxGPA_input.Size = new System.Drawing.Size(150, 31);
             this.textBoxGPA_input.TabIndex = 2;
             // 
             // textBoxGPAx
             // 
-            this.textBoxGPAx.Location = new System.Drawing.Point(163, 53);
+            this.textBoxGPAx.Location = new System.Drawing.Point(352, 53);
             this.textBoxGPAx.Name = "textBoxGPAx";
             this.textBoxGPAx.Size = new System.Drawing.Size(150, 31);
             this.textBoxGPAx.TabIndex = 3;
@@ -97,6 +101,8 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.textBoxMinName);
+            this.groupBox1.Controls.Add(this.textBoxMaxName);
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Controls.Add(this.textBoxMinGPA);
             this.groupBox1.Controls.Add(this.label3);
@@ -111,6 +117,20 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Output";
             // 
+            // textBoxMinName
+            // 
+            this.textBoxMinName.Location = new System.Drawing.Point(163, 174);
+            this.textBoxMinName.Name = "textBoxMinName";
+            this.textBoxMinName.Size = new System.Drawing.Size(150, 31);
+            this.textBoxMinName.TabIndex = 12;
+            // 
+            // textBoxMaxName
+            // 
+            this.textBoxMaxName.Location = new System.Drawing.Point(163, 119);
+            this.textBoxMaxName.Name = "textBoxMaxName";
+            this.textBoxMaxName.Size = new System.Drawing.Size(150, 31);
+            this.textBoxMaxName.TabIndex = 11;
+            // 
             // label4
             // 
             this.label4.AutoSize = true;
@@ -122,7 +142,7 @@
             // 
             // textBoxMinGPA
             // 
-            this.textBoxMinGPA.Location = new System.Drawing.Point(163, 183);
+            this.textBoxMinGPA.Location = new System.Drawing.Point(352, 174);
             this.textBoxMinGPA.Name = "textBoxMinGPA";
             this.textBoxMinGPA.Size = new System.Drawing.Size(150, 31);
             this.textBoxMinGPA.TabIndex = 8;
@@ -138,16 +158,33 @@
             // 
             // textBoxMaxGPA
             // 
-            this.textBoxMaxGPA.Location = new System.Drawing.Point(163, 116);
+            this.textBoxMaxGPA.Location = new System.Drawing.Point(352, 116);
             this.textBoxMaxGPA.Name = "textBoxMaxGPA";
             this.textBoxMaxGPA.Size = new System.Drawing.Size(150, 31);
             this.textBoxMaxGPA.TabIndex = 6;
+            // 
+            // textBoxName_input
+            // 
+            this.textBoxName_input.Location = new System.Drawing.Point(211, 47);
+            this.textBoxName_input.Name = "textBoxName_input";
+            this.textBoxName_input.Size = new System.Drawing.Size(150, 31);
+            this.textBoxName_input.TabIndex = 7;
+            // 
+            // textBoxAllData
+            // 
+            this.textBoxAllData.Location = new System.Drawing.Point(63, 368);
+            this.textBoxAllData.Multiline = true;
+            this.textBoxAllData.Name = "textBoxAllData";
+            this.textBoxAllData.Size = new System.Drawing.Size(702, 234);
+            this.textBoxAllData.TabIndex = 8;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 631);
+            this.Controls.Add(this.textBoxAllData);
+            this.Controls.Add(this.textBoxName_input);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.textBoxGPA_input);
             this.Controls.Add(this.button1);
@@ -179,5 +216,9 @@
         private TextBox textBoxMinGPA;
         private Label label3;
         private TextBox textBoxMaxGPA;
+        private TextBox textBoxMinName;
+        private TextBox textBoxMaxName;
+        private TextBox textBoxName_input;
+        private TextBox textBoxAllData;
     }
 }
